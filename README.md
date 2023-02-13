@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">
+<a href="https://github.com/quanghoangvhitc/quanghoangvhitc" target="_blank"><img src="https://lh3.googleusercontent.com/a/AEdFTp6NIV10jzCSEG5EBXAW-knOOJKoAOKZMyfDNnxRxA=s96-c-rg-br100" alt="HoangPQ GitHub Avatar" style="width: 100px; height: 100px;" />
+</a>
+HoangPQ GitHub Profile</h1>
 
-<!--
-**quanghoangvhitc/quanghoangvhitc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://static.gunnarpeipman.com/wp-content/uploads/2009/10/csharp-featured.png" alt="CSharp dotnet" />
+<br>
+<i>...</i>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contents:
+  
