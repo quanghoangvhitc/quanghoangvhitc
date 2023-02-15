@@ -1,11 +1,51 @@
-<h1>HoangPQ GitHub Profile</h1>
+<h1>Hi there, I'm Hoang</h1>
 
-<div align="center">
-<img src="https://static.gunnarpeipman.com/wp-content/uploads/2009/10/csharp-featured.png" alt="CSharp dotnet" style="width: 200px; height: 110px;" />
-<br>
-<i>...</i>
-
+<div>
+  <h3>About me</h3>
+  &emsp;-
+  <br>
+  &emsp;-
+  <br>
+  &emsp;-
 </div>
 
-### Contents:
+<div>
+  <h3>Technical Skills</h3>
+   &emsp;-
+  <br>
+  &emsp;-
+  <br>
+  &emsp;-
+  <br>
+  &emsp;-
+</div>
+
+<div>
+  <h3>Work Experience</h3>
+   &emsp;-
+  <br>
+  &emsp;-
+  <br>
+  &emsp;-
+  <br>
+  &emsp;-
+    <br>
+  &emsp;-
+</div>
   
+<div>
+  <h3>Projects</h3>
+   &emsp;-
+  <br>
+  &emsp;-
+  <br>
+  &emsp;-
+  <br>
+  &emsp;-
+    <br>
+  &emsp;-
+</div>
+  
+  <br>
+  <br>
+  <p align="center">Thank you so much!<p>
