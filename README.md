@@ -1,41 +1,26 @@
+# Hi there:wave:, I'm Hoang
 
-<h1>Hi there:wave:, I'm Hoang</h1>
+### About me
+&emsp;-
+<br>
+&emsp;-
+<br>
+&emsp;-
 
-<div>
-  <h3>About me</h3>
-  &emsp;-
-  <br>
-  &emsp;-
-  <br>
-  &emsp;-
-</div>
+### Technical Skills
+ &emsp;-
+<br>
+&emsp;-
+<br>
+&emsp;-
+<br>
+&emsp;-
 
-<div>
-  <h3>Technical Skills</h3>
-   &emsp;-
-  <br>
-  &emsp;-
-  <br>
-  &emsp;-
-  <br>
-  &emsp;-
-</div>
 
-<div>
-  <h3>Work Experience</h3>
-   &emsp;-
-  <br>
-  &emsp;-
-  <br>
-  &emsp;-
-  <br>
-  &emsp;-
-    <br>
-  &emsp;-
-</div>
-  
-<div>
-  <h3>Projects</h3>
+  <h3>
+    <img src="https://e7.pngegg.com/pngimages/247/286/png-clipart-grays-customer-service-business-work-experience-icon-text-service.png" style="width: 25px; height: 25px;"/>
+    Work Experience
+  </h3>
    &emsp;-
   <br>
   &emsp;-
@@ -45,7 +30,18 @@
   &emsp;-
     <br>
   &emsp;-
-</div>
+
+### Projects
+   &emsp;-
+  <br>
+  &emsp;-
+  <br>
+  &emsp;-
+  <br>
+  &emsp;-
+    <br>
+  &emsp;-
+
   
   <br>
   <br>
