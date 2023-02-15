@@ -1,4 +1,5 @@
-<h1>Hi there, I'm Hoang</h1>
+
+<h1>Hi there:wave:, I'm Hoang</h1>
 
 <div>
   <h3>About me</h3>
