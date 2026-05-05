@@ -1,7 +1,7 @@
 ## 👋 Phan Quang Hoàng — Backend Developer (.NET)
 
 📍 Bình Thạnh, TP.HCM  
-📧 hoangpq.qn@gmail.com  
+📧 quanghoangvhit@gmail.com  
 💼 Backend Developer tại **PV Gas Low Pressure Distribution JSC**
 
 ---
