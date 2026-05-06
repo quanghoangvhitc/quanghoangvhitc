@@ -2,7 +2,7 @@
 
 📍 Binh Thanh, Ho Chi Minh City, Vietnam
 📧 quanghoangvhit@gmail.com
-💼 Backend Developer at **PV Gas Low Pressure Distribution JSC**
+💼 Backend Developer at **PetroVietnam Low Pressure Gas Distribution Joint Stock Company**
 
 ---
 
