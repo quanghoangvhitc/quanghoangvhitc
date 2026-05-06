@@ -15,19 +15,14 @@ Backend Developer with **nearly 10 years of experience** building enterprise sof
 
 **Backend & Framework**
 `C#` `ASP.NET Core` `.NET Framework` `Entity Framework Core` `Web API` `Windows Service`
-
 **Database & Tools**
 `SQL Server` `Git` `TFS` `IIS` `Postman` `Visual Studio`
-
 **Integration & Services**
 `Firebase` `Microsoft Teams Webhook` `SMTP` `SharePoint`
-
 **Desktop & Mobile**
 `WPF` `WinForms` `DevExpress` `Xamarin Android` `Flutter`
-
 **Frontend (basic)**
 `HTML/CSS` `JavaScript` `jQuery` `Bootstrap` `ReactJS` `Node.js`
-
 **Cloud & DevOps**
 `Docker` `Azure` `CI/CD` `Kubernetes`
 
