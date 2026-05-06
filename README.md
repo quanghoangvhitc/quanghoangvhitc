@@ -1,76 +1,89 @@
 ## 👋 Phan Quang Hoàng — Backend Developer (.NET)
 
-📍 Bình Thạnh, TP.HCM  
-📧 quanghoangvhit@gmail.com  
-💼 Backend Developer tại **PV Gas Low Pressure Distribution JSC**
+📍 Binh Thanh, Ho Chi Minh City, Vietnam
+📧 quanghoangvhit@gmail.com
+💼 Backend Developer at **PV Gas Low Pressure Distribution JSC**
 
 ---
 
-### 🧑‍💻 Về tôi
+### 🧑‍💻 About Me
 
-Backend Developer với **gần 10 năm kinh nghiệm** xây dựng hệ thống doanh nghiệp trên nền tảng **.NET**. 
+Backend Developer with **nearly 10 years of experience** building enterprise software systems on the **.NET platform**.
 
-- 🏢 Từng dẫn dắt team phát triển **Digital Office cho Tập đoàn Petrolimex**
-- 🔧 Xây dựng RESTful API, Windows Service, tích hợp hệ thống bên thứ ba
-- 📱 Phát triển cả backend và mobile app (Flutter/Xamarin)
-- ⚙️ Có kinh nghiệm vận hành hạ tầng Windows Server, IIS
+- 🏢 Led a team developing **Digital Office (eOffice) for Petrolimex Group** — serving thousands of employees nationwide
+- 🔧 Designed and built RESTful APIs, Windows Services, and third-party system integrations
+- 📱 Delivered performance improvements of **+50% (Petrolimex)** and **+60% (Vietnam Airlines)** on mobile apps
+- ⚙️ Experienced in Windows Server & IIS deployment, system monitoring, and production operations
+- 🛒 Built a full-featured retail POS system (WinForms + DevExpress + ASP.NET Core MVC) — currently in production use
 
 ---
 
-### 🛠️ Kỹ năng chính
+### 🛠️ Tech Stack
 
-**Backend & Framework**  
+**Backend & Framework**
 `C#` `ASP.NET Core` `.NET Framework` `Entity Framework Core` `Web API` `Windows Service`
 
-**Database & Tools**  
-`SQL Server` `Git` `IIS` `Postman` `Visual Studio`
+**Database & Tools**
+`SQL Server` `Git` `TFS` `IIS` `Postman` `Visual Studio`
 
-**Tích hợp & Services**  
+**Integration & Services**
 `Firebase` `Microsoft Teams Webhook` `SMTP` `SharePoint`
 
-**Desktop & Mobile**  
-`WPF` `WinForms` `Xamarin Android` `Flutter/Dart`
+**Cloud & DevOps**
+`Docker` `Azure` `CI/CD` `Kubernetes`
 
-**Frontend (cơ bản)**  
+**Desktop & Mobile**
+`WPF` `WinForms` `DevExpress` `Xamarin Android` `Flutter/Dart`
+
+**Frontend (basic)**
 `HTML/CSS` `JavaScript` `jQuery` `Bootstrap` `ReactJS` `Node.js`
 
 ---
 
-### 💼 Kinh nghiệm nổi bật
+### 💼 Work Experience
 
-**PV Gas Low Pressure Distribution JSC** — *Backend Developer / IT Engineer* (04/2025 – nay)
-- Xây dựng hệ thống giám sát & cảnh báo tự động qua Teams/Email
-- Phát triển công cụ quản lý tài sản CNTT (PVGASD_DeviceManager)
-- Xây dựng hệ thống Kaizen tự động hóa quy trình vận hành
-- Phát triển mobile app LogSheets (Flutter/Dart)
+**PV Gas Low Pressure Distribution JSC** *(Apr 2025 – Present)*
+*Backend Developer (.NET) / IT Engineer*
+- Built a Data Center monitoring & auto-alerting system via Microsoft Teams & Email
+- Developed automated log/cache/temp cleanup tools to stabilize server infrastructure
+- Built an internal IT asset management system to replace manual Excel tracking
+- Digitized the Kaizen improvement process with a full tracking & reporting system
 
-**Vũ Thảo Technology** — *Senior .NET Developer | Tech Lead* (07/2021 – 11/2024)
-- Dẫn dắt team 3–4 người phát triển Digital Office cho Petrolimex
-- Thiết kế API phục vụ hàng nghìn user toàn quốc
-- Tối ưu SQL Server, xây dựng Windows Service xử lý email & push notification
+**Vu Thao Technology JSC** *(Jul 2021 – Nov 2024)*
+*Senior .NET Developer | Tech Lead (team of 3–4)*
+- Led development of Digital Office system for Petrolimex Group
+- Developed Workflow Management software for enterprise clients: **PNJ, Vietnam Airlines, Hoa Phat, Becamex, Zarubezhneft**
+- Optimized mobile app performance: **+50% (Petrolimex)**, **+60% (Vietnam Airlines)**
+- Built mass email & Firebase push notification Windows Services
 
-**FAST Software** — *.NET Developer* (05/2018 – 06/2021)
-- Tích hợp hóa đơn điện tử với VNPT, Viettel, M-Invoice
-
----
-
-### 📂 Repositories nổi bật
-
-| Repo | Mô tả | Tech Stack |
-|------|-------|------------|
-| [PVGASD_DeviceManager](https://github.com/quanghoangvhitc/PVGASD_DeviceManager) | Quản lý tài sản CNTT nội bộ | C#, ASP.NET Core, SQL Server |
-| [PVGASD_KaizenManagement](https://github.com/quanghoangvhitc/PVGASD_KaizenManagement) | Hệ thống quy trình Kaizen | C#, ASP.NET Core, SQL Server |
-| [AppLogSheets](https://github.com/quanghoangvhitc/AppLogSheets) | Mobile app ghi log vận hành | Flutter |
-| [InvestorLiftExt](https://github.com/quanghoangvhitc/InvestorLiftExt) | Chrome Extension | JavaScript |
+**FAST Software JSC** *(May 2018 – Jun 2021)*
+*\.NET Developer*
+- Developed accounting modules (Cash, Purchasing, Sales, Inventory, Payroll) for FAST Accounting
+- Integrated e-invoice with **VNPT, Viettel, M-Invoice**
 
 ---
 
-### 📫 Liên hệ
+### 📂 Featured Repositories
 
-- **Email:** hoangpq.qn@gmail.com
-- **LinkedIn:** [linkedin.com/in/[username]](https://linkedin.com/in/yourprofile)
-- **Location:** Bình Thạnh, TP.HCM
+| Repository | Description | Tech |
+|------------|-------------|------|
+| [SalesManagerAPI](https://github.com/quanghoangvhitc/SalesManagerAPI) | RESTful API for retail POS system | C#, ASP.NET Core |
+| [SalesManagerApp](https://github.com/quanghoangvhitc/SalesManagerApp) | Desktop POS app — inventory, sales, invoicing | WinForms, DevExpress |
+| [SalesManagerNetCore](https://github.com/quanghoangvhitc/SalesManagerNetCore) | Web portal — product catalog, pricing & barcode export | ASP.NET Core MVC |
+| [salesmanager-reactjs](https://github.com/quanghoangvhitc/salesmanager-reactjs) | React frontend for sales dashboard | ReactJS |
+| [PVGASD_DeviceManager](https://github.com/quanghoangvhitc/PVGASD_DeviceManager) | Internal IT asset management system | C#, ASP.NET Core |
+| [PVGASD_KaizenManagement](https://github.com/quanghoangvhitc/PVGASD_KaizenManagement) | Kaizen process digitization & reporting | C#, ASP.NET Core |
+| [AppLogSheets](https://github.com/quanghoangvhitc/AppLogSheets) | Mobile app for operational log tracking | Flutter/Dart |
+| [FairyGodStore](https://github.com/quanghoangvhitc/FairyGodStore) | Store management web app with CI/CD | ASP.NET Core |
 
 ---
 
-⭐ *Đang tìm kiếm cơ hội Senior Backend Developer (.NET) tại TP.HCM*
+### 📫 Contact
+
+- **Email:** quanghoangvhit@gmail.com
+- **GitHub:** [github.com/quanghoangvhitc](https://github.com/quanghoangvhitc)
+- **Location:** Ho Chi Minh City, Vietnam
+
+---
+
+> 🔍 *Open to Senior Backend Developer (.NET) opportunities in Ho Chi Minh City*
