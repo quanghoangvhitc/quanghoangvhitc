@@ -1,4 +1,4 @@
-## 👋 Phan Quang Hoàng — Backend Developer (.NET)
+## 👋 Phan Quang Hoàng - Backend Developer (.NET)
 
 📍 Binh Thanh, Ho Chi Minh City, Vietnam  
 📧 quanghoangvhit@gmail.com  
