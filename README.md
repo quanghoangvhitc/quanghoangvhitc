@@ -1,7 +1,7 @@
 ## 👋 Phan Quang Hoàng — Backend Developer (.NET)
 
-📍 Binh Thanh, Ho Chi Minh City, Vietnam
-📧 quanghoangvhit@gmail.com
+📍 Binh Thanh, Ho Chi Minh City, Vietnam  
+📧 quanghoangvhit@gmail.com  
 💼 Backend Developer at **PetroVietnam Low Pressure Gas Distribution Joint Stock Company**
 
 ---
